@@ -1,4 +1,4 @@
 ps-flix
 =======
 
-Pragmatic Studio Rails movies app, done as homework
+"I'm sorry, I am Gorb." -Gorb
